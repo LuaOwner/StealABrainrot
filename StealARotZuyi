@@ -5,7 +5,7 @@ local response = KeySystem:Init({
 	Title="Steal A Brainrot | Key", -- <string or nil> Title of key system
 	Description=nil, -- <string or nil> Description of key system
 	Link="https://direct-link.net/1288118/roblox", -- <string>  String to get key
-	Discord="https://discord.gg/Kz626aE9", -- <string or nil> Button to join your discord server
+	Discord="https://discord.gg/DV5D7eaM", -- <string or nil> Button to join your discord server
 	SaveKey=false, -- <bool or nil> Just auto save key
 	Verify=function(key) -- <function> Verify is key valid
 		if key=="slapbattles9103747" then
